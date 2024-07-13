@@ -1,4 +1,4 @@
 # Python-Projects
 
-## Minor_Project 1
-[Link to Minor_Project 1](https://github.com/yourusername/yourrepository/blob/main/path/to/Minor_Project_1)
+## Minor_Project 1:
+[![Snake Water Gun Game](https://img.shields.io/badge/Snake_Water_Gun-Game-brightgreen)](https://github.com/deba0272/100_days_Python_Programming/blob/main/main.py)
